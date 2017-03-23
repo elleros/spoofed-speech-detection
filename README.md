@@ -6,6 +6,4 @@ This work is part of the [\"DDoS Resilient Emergency Dispatch Center\"](https://
 
 April 19, 2015
  
-Lorenzo Rossi
-
-lorenzo **[dot]** rossi **[at]** gmail **[dot]** com
+Questions to: lorenzo **[dot]** rossi **[at]** gmail **[dot]** com
